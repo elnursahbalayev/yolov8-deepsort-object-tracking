@@ -63,9 +63,6 @@ You can adjust the following parameters in `main.py`:
 - NumPy
 - FilterPy
 
-## License
-[Include license information here]
-
 ## Acknowledgements
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [DeepSORT](https://github.com/nwojke/deep_sort)
